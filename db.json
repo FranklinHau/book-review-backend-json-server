@@ -2,7 +2,7 @@
   "books": [
     {
       "id": 1,
-      "title": "",
+      "title": "Book 1",
       "author": "Author 1",
       "year": "year published",
       "description": "Description 1",
