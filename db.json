@@ -1,20 +1,25 @@
 {
   "books": [
     {
-      "id": 1,
-      "title": "Book 1",
-      "author": "Author 1",
-      "year": "year published",
-      "description": "Description 1",
-      "review": "Review 1"
+      "title": "The Teachings of Don Juan",
+      "author": "Carlos Castaneda",
+      "year": "1985",
+      "description": "A story of a remarkable journey: the first awesome steps on the road to becoming a 'man of knowledge'",
+      "reviews": [
+        "\"Extraordinary in every sense of the word.\" ― The New York Times",
+        "Must read to understand the path of a warrior -Franklin "
+      ],
+      "id": 1
     },
     {
-      "id": 2,
-      "title": "Book 2",
-      "author": "Author 2",
-      "year": "year published",
-      "description": "Description 2",
-      "review": "Review 2"
+      "title": "The Bridge Across Forever",
+      "author": "Richard Bach",
+      "year": "1984",
+      "description": "Richard Bach espouses the idea that you create your own reality.",
+      "reviews": [
+        "It's romantic, intriguing, and, the best of Richard Bach!"
+      ],
+      "id": 2
     }
   ]
 }
