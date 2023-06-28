@@ -6,10 +6,15 @@
       "year": "1985",
       "description": "A story of a remarkable journey: the first awesome steps on the road to becoming a 'man of knowledge'",
       "reviews": [
-        "\"Extraordinary in every sense of the word.\" ― The New York Times",
-        "Must read to understand the path of a warrior -Franklin "
+        {
+          "text": "\"Extraordinary in every sense of the word.\" ― The New York Times",
+          "rating": 5
+        },
+        {
+          "text": "Must read to understand the path of a warrior -Franklin",
+          "rating": 4
+        }
       ],
-      "rating": 3,
       "id": 1
     },
     {
@@ -18,9 +23,11 @@
       "year": "1984",
       "description": "Richard Bach espouses the idea that you create your own reality.",
       "reviews": [
-        "It's romantic, intriguing, and, the best of Richard Bach!--Franklin"
+        {
+          "text": "It's romantic, intriguing, and, the best of Richard Bach!--Franklin",
+          "rating": 4
+        }
       ],
-      "rating": 3,
       "id": 2
     },
     {
@@ -29,9 +36,18 @@
       "year": "2023",
       "description": "Is a comprehensive guide to harnessing the power of the Law of Attraction and manifesting your desires",
       "reviews": [
-        "It's practical tips, step-by-step exercises, and real-life examples, this book is the ultimate resource for anyone looking to transform their life -Franklin ",
-        "Techniques for enhancing your manifestation abilities -anonymous ",
-        "The importance of self-care in the manifestation process -Frank",
+        {
+          "text": "It's practical tips, step-by-step exercises, and real-life examples, this book is the ultimate resource for anyone looking to transform their life -Franklin",
+          "rating": 4
+        },
+        {
+          "text": "Techniques for enhancing your manifestation abilities -anonymous",
+          "rating": 3
+        },
+        {
+          "text": "The importance of self-care in the manifestation process -Frank",
+          "rating": 4
+        },
         {
           "text": "Advanced visualization techniques to manifest your desires -Francisco",
           "rating": 4
@@ -41,8 +57,70 @@
           "rating": 3
         }
       ],
-      "rating": 0,
       "id": 3
+    },
+    {
+      "title": "Autobiography of a Yogi",
+      "author": "Paramhansa Yogananda ",
+      "year": "1946",
+      "description": "First hand account of his life experiences in India includes childhood revelations, stories of his visits to saints and masters in India, and long-secret teachings of yoga and Self-realization that he first made available to the Western reader.",
+      "reviews": [
+        {
+          "text": "Very hard to understand -Frank",
+          "rating": 2
+        }
+      ],
+      "id": 4
+    },
+    {
+      "title": "The Book of Unusual Knowledge",
+      "author": "Publications International Ltd. ",
+      "year": "2012",
+      "description": "Expand your knowledge on a range of topics, including the animal kingdom, art, sports, technology, history, politics, the universe, and much, much more!",
+      "reviews": [
+        {
+          "text": "Some useful information, others not so much but all of it completely captivating",
+          "rating": 3
+        }
+      ],
+      "id": 5
+    },
+    {
+      "title": "Ageless Wisdom: A Treasury of Quotes to Motivate & Inspire",
+      "author": "J.S. Felts ",
+      "year": "2021",
+      "description": "This compilation of quotes is not meant to be the largest collection, but the wisest, which shares the greatest of thoughts",
+      "review": "Great book by put together by an even greater man! Keep it on my desk to reference all the time! --\tWILLIAM T.",
+      "rating": 4,
+      "id": 6
+    },
+    {
+      "title": "Energy Teachings of The Three: Guidance and Practices to Open Your Heart and Heal Your Mind",
+      "author": "David T. Kyle",
+      "year": "2020",
+      "description": "The Energy Teachings of The Three was dictated unexpectedly to the author by three entities during an initiation in Peru in 2012 where he had been in training for several years learning the Andean shamanic healing traditions. The teachings are based on the principles and practices of energy healing combining different chakra patterns so you can live in the world with the energy of love and presence as the focus of your life.",
+      "review": "\"Profound and timely insights and practices for these turbulent times. The world needs this!\"-Alberto Villoldo",
+      "rating": 5,
+      "id": 7
+    },
+    {
+      "title": "Heal Using Intuition And Energy: Discover Mental and Emotional Roots of Health Issues",
+      "author": "Carrie Suwal ",
+      "year": "2022",
+      "description": "You are going to receive answers, healing, and integrate with your higher self throughout the practices in the book. YOU will be the healer of your life.",
+      "review": "I really enjoyed this book. I have read many books but found some new ideas for me to use. Thank you Carrie.",
+      "rating": 3,
+      "id": 8,
+      "reviews": [
+        {
+          "text": " was like she connected to my soul. ",
+          "rating": 4
+        },
+        {
+          "text": "I really enjoyed this book. I have read many books but found some new ideas for me to use. Thank you Carrie.",
+          "rating": 4
+        }
+      ]
     }
   ]
 }
