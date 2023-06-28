@@ -9,6 +9,7 @@
         "\"Extraordinary in every sense of the word.\" ― The New York Times",
         "Must read to understand the path of a warrior -Franklin "
       ],
+      "rating": 3,
       "id": 1
     },
     {
@@ -17,9 +18,31 @@
       "year": "1984",
       "description": "Richard Bach espouses the idea that you create your own reality.",
       "reviews": [
-        "It's romantic, intriguing, and, the best of Richard Bach!"
+        "It's romantic, intriguing, and, the best of Richard Bach!--Franklin"
       ],
+      "rating": 3,
       "id": 2
+    },
+    {
+      "title": "Master The Law of Attraction: Create Your Reality",
+      "author": "Aurora Skye ",
+      "year": "2023",
+      "description": "Is a comprehensive guide to harnessing the power of the Law of Attraction and manifesting your desires",
+      "reviews": [
+        "It's practical tips, step-by-step exercises, and real-life examples, this book is the ultimate resource for anyone looking to transform their life -Franklin ",
+        "Techniques for enhancing your manifestation abilities -anonymous ",
+        "The importance of self-care in the manifestation process -Frank",
+        {
+          "text": "Advanced visualization techniques to manifest your desires -Francisco",
+          "rating": 4
+        },
+        {
+          "text": "The science behind the Law of Attraction and how it works -Frank",
+          "rating": 3
+        }
+      ],
+      "rating": 0,
+      "id": 3
     }
   ]
 }
