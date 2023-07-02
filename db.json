@@ -13,6 +13,10 @@
         {
           "text": "Must read to understand the path of a warrior -Franklin",
           "rating": 4
+        },
+        {
+          "text": "It sucks!! --theNegativeFamily",
+          "rating": 4
         }
       ],
       "id": 1
@@ -26,6 +30,10 @@
         {
           "text": "It's romantic, intriguing, and, the best of Richard Bach!--Franklin",
           "rating": 4
+        },
+        {
+          "text": "Bad, just bad -Juki",
+          "rating": 1
         }
       ],
       "id": 2
@@ -55,6 +63,10 @@
         {
           "text": "The science behind the Law of Attraction and how it works -Frank",
           "rating": 3
+        },
+        {
+          "text": "stupid nonsense book -Julio",
+          "rating": 1
         }
       ],
       "id": 3
@@ -67,6 +79,14 @@
       "reviews": [
         {
           "text": "Very hard to understand -Frank",
+          "rating": 2
+        },
+        {
+          "text": "weird book -Lay ",
+          "rating": 2
+        },
+        {
+          "text": "Need to read twice to understand the first chapter -Gloria ",
           "rating": 2
         }
       ],
@@ -81,6 +101,10 @@
         {
           "text": "Some useful information, others not so much but all of it completely captivating",
           "rating": 3
+        },
+        {
+          "text": "crazy book -Frank ",
+          "rating": 2
         }
       ],
       "id": 5
@@ -90,8 +114,16 @@
       "author": "J.S. Felts ",
       "year": "2021",
       "description": "This compilation of quotes is not meant to be the largest collection, but the wisest, which shares the greatest of thoughts",
-      "review": "Great book by put together by an even greater man! Keep it on my desk to reference all the time! --\tWILLIAM T.",
-      "rating": 4,
+      "reviews": [
+        {
+          "text": "Great book by put together by an even greater man! Keep it on my desk to reference all the time! --\tWILLIAM T.",
+          "rating": 4
+        },
+        {
+          "text": "Not bad but not great -Frank ",
+          "rating": 3
+        }
+      ],
       "id": 6
     },
     {
@@ -99,8 +131,16 @@
       "author": "David T. Kyle",
       "year": "2020",
       "description": "The Energy Teachings of The Three was dictated unexpectedly to the author by three entities during an initiation in Peru in 2012 where he had been in training for several years learning the Andean shamanic healing traditions. The teachings are based on the principles and practices of energy healing combining different chakra patterns so you can live in the world with the energy of love and presence as the focus of your life.",
-      "review": "\"Profound and timely insights and practices for these turbulent times. The world needs this!\"-Alberto Villoldo",
-      "rating": 5,
+      "reviews": [
+        {
+          "text": "Profound and timely insights and practices for these turbulent times. -Alberto Villoldo",
+          "rating": 5
+        },
+        {
+          "text": "waste my time reading this book -Frank ",
+          "rating": 1
+        }
+      ],
       "id": 7
     },
     {
@@ -119,8 +159,63 @@
         {
           "text": "I really enjoyed this book. I have read many books but found some new ideas for me to use. Thank you Carrie.",
           "rating": 4
+        },
+        {
+          "text": "How can people understand this crap -Betty ",
+          "rating": 1
         }
       ]
+    },
+    {
+      "title": "The Medicine Bag: Shamanic Rituals & Ceremonies for Personal Transformation",
+      "author": "don Jose Ruiz ",
+      "year": "2020",
+      "description": "Introduces and explains a wealth of these shamanic rituals and ceremonies, and provides a detailed and accessible guide to performing them on your own.",
+      "reviews": [
+        {
+          "text": "This book was too simplified.",
+          "rating": 3
+        },
+        {
+          "text": "I have loved learning from this author and book. Beautifully put together and beautiful rituals that can be used to gain a closer connection to spirit and self.-Frank",
+          "rating": 3
+        },
+        {
+          "text": "bad bad bad -Hella ",
+          "rating": 1
+        }
+      ],
+      "id": 9
+    },
+    {
+      "title": "Me Talk Pretty One Day",
+      "author": "David Sedaris",
+      "year": "2001",
+      "description": "A recent transplant to Paris, humorist David Sedaris, bestselling author of \"Naked\", presents a collection of his strongest work yet, including the title story about his hilarious attempt to learn French.",
+      "reviews": [
+        {
+          "text": "author’s childhood memories were quite entertaining -Frank",
+          "rating": 4
+        },
+        {
+          "text": "Not bad -Vanessa ",
+          "rating": 3
+        }
+      ],
+      "id": 10
+    },
+    {
+      "title": "The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book) ",
+      "author": " Don Miguel Ruiz ",
+      "year": "1997",
+      "description": "Reveals the source of self-limiting beliefs that rob us of joy and create needless suffering. Based on ancient Toltec wisdom, The Four Agreements offer a powerful code of conduct that can rapidly transform our lives to a new experience of freedom, true happiness, and love.",
+      "reviews": [
+        {
+          "text": "Great book to read in two days -Frank ",
+          "rating": 5
+        }
+      ],
+      "id": 11
     }
   ]
 }
