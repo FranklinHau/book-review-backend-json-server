@@ -69,11 +69,6 @@ npm install
 
 Then, you can start the server with npm start. The server will run on http://localhost:3001.
 
-Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
 ## Contributing
 
 Pull requests are welcome. To make a pull request, fork the repository, create a new branch, make your changes, and then submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
